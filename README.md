@@ -1,4 +1,4 @@
-# ethereum-website
+# Ethereum-website
 https://ethereum-website-clone.netlify.app/
 
 Ethereum website is clone of first page of the ethereum.org website.
